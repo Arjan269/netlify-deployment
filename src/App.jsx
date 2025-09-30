@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-      <h1>This has be deployed on Netlify</h1>
+      <h1>This has been deployed on Netlify</h1>
     </>
   )
 }
